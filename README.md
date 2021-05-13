@@ -1,4 +1,4 @@
-# ObjectLocalizationWithTensorflow
+# Object Localization with Tensorflow
 
 ### First of all, object detection and object localization are different subject
 
