@@ -1,6 +1,6 @@
 # Object Localization with Tensorflow
 
-### First of all, object detection and object localization are different subject
+### First of all, object detection and object localization are different subjects.
 
 **In Object Detection, our model can detect multiple objects in an image.**<br>
 **In Object Localization, our model can detect just one object in an image. And this is enough for some works.**
